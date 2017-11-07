@@ -1,0 +1,2 @@
+# darknet-windows
+该项目是darknet在windows下编译动态链接库的过程
